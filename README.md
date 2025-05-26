@@ -12,6 +12,12 @@ The app renders full webpages, including JavaScript-powered SPAs, and extracts k
 - Robots.txt, Sitemaps, Hreflangs
 - Redirects and FAQ schema
 
+## Privacy and Advertising
+
+SEO Inspector displays in-app banner ads using [Google AdMob](https://admob.google.com/).  
+The app fully complies with Apple's [App Tracking Transparency (ATT)](https://developer.apple.com/app-store/user-privacy-and-data-use/) requirements and requests tracking consent when necessary.  
+See the privacy policy below for full details.
+
 ## Live Pages
 
 - [Privacy Policy](https://nexarchakos.github.io/seo-inspector/privacy-policy.html)
@@ -23,4 +29,4 @@ Created and maintained by [Nicholas Exarchakos](https://github.com/nexarchakos)
 
 ---
 
-*This repository contains static HTML files used for App Store support and privacy policy purposes.*
+*This repository hosts static support files used for App Store Connect — including the privacy policy and support contact page for the SEO Inspector app.*
